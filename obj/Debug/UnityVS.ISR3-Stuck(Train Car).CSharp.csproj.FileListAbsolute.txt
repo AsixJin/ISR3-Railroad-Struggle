@@ -1,0 +1,11 @@
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\obj\Debug\UnityVS.ISR3-Stuck(Train Car).CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\obj\Debug\Assembly-CSharp.dll
+C:\Users\Asix Jin\Documents\Unity Projects\ISR3-Stuck(Train Car)\obj\Debug\Assembly-CSharp.pdb
