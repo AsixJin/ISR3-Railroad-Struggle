@@ -5,6 +5,7 @@ using System.Collections;
 public class GameManager : MonoBehaviour
 {
     private static GameManager instance;
+    
     #region Constants
     public readonly int DEBUG = -2;
     public readonly int ENDLESS = -1;

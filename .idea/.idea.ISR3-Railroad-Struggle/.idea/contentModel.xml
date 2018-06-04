@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_ISR3-Railroad-Struggle.1163764826.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Background" t="Include">
+          <e p="FollowUV.cs" t="Include" />
+          <e p="ScrollUV.cs" t="Include" />
+          <e p="SimplySpaceship.cs" t="Include" />
+        </e>
+        <e p="Intro" t="Include">
+          <e p="LogoTrans.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Actor.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Hero.cs" t="Include" />
+          <e p="PanelShow.cs" t="Include" />
+          <e p="SpawnPoint.cs" t="Include" />
+          <e p="Train.cs" t="Include" />
+          <e p="Trans.cs" t="Include" />
+          <e p="Troll.cs" t="Include" />
+          <e p="logo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ISR3-Railroad-Struggle.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
